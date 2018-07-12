@@ -405,17 +405,17 @@ svg {
   transition-delay: 0.1s; }
 
 /* line 432, C:/Users/iva_b/Desktop/WebDesign_Master/Создание Landing Page на WordPress/wordpress-landing-page-lesson-master/__clean_html_original/css/main.scss */
-.sandwich .active .sw-topper {
+.active .sw-topper {
   top: 10px;
   transform: rotate(-45deg); }
 
 /* line 436, C:/Users/iva_b/Desktop/WebDesign_Master/Создание Landing Page на WordPress/wordpress-landing-page-lesson-master/__clean_html_original/css/main.scss */
-.sandwich .active .sw-bottom {
+.active .sw-bottom {
   top: 7px;
   transform: rotate(45deg); }
 
 /* line 440, C:/Users/iva_b/Desktop/WebDesign_Master/Создание Landing Page на WordPress/wordpress-landing-page-lesson-master/__clean_html_original/css/main.scss */
-.sandwich .active .sw-footer {
+.active .sw-footer {
   opacity: 0;
   top: 0;
   transform: rotate(180deg); }
